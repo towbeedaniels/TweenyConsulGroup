@@ -21,10 +21,13 @@
         <!-- ==============================================
         Favicons
         =============================================== -->
-        <link rel="shortcut icon" href={{ asset('assets/images/favicon.ico')}}"">
-        <link rel="apple-touch-icon" href="{{ asset('assets/images/apple-touch-icon.png')}}">
-        <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('assets/images/apple-touch-icon-72x72.png')}}">
-        <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('assets/images/apple-touch-icon-114x114.png')}}">
+        <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('assets/apple-touch-icon.png')}}">
+        <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('assets/favicon-32x32.pn')}}g">
+        <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('assets/favicon-16x16.png')}}">
+        <link rel="manifest" href="{{ asset('assets/site.webmanifest')}}">
+        <link rel="mask-icon" href="{{ asset('assets/safari-pinned-tab.svg')}}" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="theme-color" content="#ffffff">
 
         <!-- ==============================================
         Vendor Stylesheet
