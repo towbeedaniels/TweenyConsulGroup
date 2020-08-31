@@ -158,9 +158,6 @@
                             <a href="#services" class="smooth-anchor nav-link">SERVICES</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#pricing" class="smooth-anchor nav-link">PRICING</a>
-                        </li>
-                        <li class="nav-item">
                             <a href="#blog" class="smooth-anchor nav-link">BLOG</a>
                         </li>
                     </ul>
@@ -391,118 +388,6 @@
             </div>
         </section>
 
-        <!-- Pricing -->
-        <section id="pricing" class="section-4 plans">
-            <div class="container">
-                <div class="row text-center intro">
-                    <div class="col-12">
-                        <span class="pre-title">Monthly Plans</span>
-                        <h2><span class="featured"><span>Pricing</span></span> Table</h2>
-                        <p class="text-max-800">We can help you deliver and execute your future, wherever you compete, using the latest technologies, from strategy development to implementation.</p>
-                    </div>
-                </div>
-                <div class="row justify-content-center text-center items">
-                    <div class="col-12 col-md-6 col-lg-4 align-self-center text-center item">
-                        <div data-aos="fade-up"  class="card">
-                            <a href="#" class="choose-plan"><i class="btn-icon pulse fas fas fa-arrow-right"></i></a>
-                            <i class="icon icon-rocket"></i>
-                            <h4>Standard</h4>
-                            <span class="price">
-                                <i>$</i>490<span class="plan"> / mo</span>
-                            </span>                            
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Standard Accounting</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Platform Access</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Business Orientation</span>
-                                    <i class="icon-min m-0 fas fa-times text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Dedicated Consultant</span>
-                                    <i class="icon-min m-0 fas fa-times text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Personal Assistance</span>
-                                    <i class="icon-min m-0 fas fa-times text-right"></i>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 align-self-center text-center item">
-                        <div data-aos="fade-up"  class="card most-popular">
-                            <span class="badge">Most<br>Popular</span>
-                            <a href="#" class="choose-plan"><i class="btn-icon pulse fas fas fa-arrow-right"></i></a>
-                            <i class="icon icon-briefcase"></i>
-                            <h4>Professional</h4>
-                            <span class="price">
-                                <i>$</i>890<span class="plan"> / mo</span>
-                            </span>  
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Standard Accounting</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Platform Access</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Business Orientation</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Dedicated Consultant</span>
-                                    <i class="icon-min m-0 fas fa-times text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Personal Assistance</span>
-                                    <i class="icon-min m-0 fas fa-times text-right"></i>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-lg-4 align-self-center text-center item">
-                        <div data-aos="fade-up" class="card">
-                            <a href="#" class="choose-plan"><i class="btn-icon pulse fas fas fa-arrow-right"></i></a>
-                            <i class="icon icon-diamond"></i>
-                            <h4>Ultimate</h4>
-                            <span class="price">
-                                <i>$</i>1.390<span class="plan"> / mo</span>
-                            </span>  
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Standard Accounting</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Platform Access</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Business Orientation</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Dedicated Consultant</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Personal Assistance</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
         <!-- Blog -->
         <section id="blog" class="section-5 carousel showcase">
             <div class="overflow-holder">
@@ -519,13 +404,14 @@
                     </div>
                     <div class="swiper-container mid-slider items" data-perview="3"> 
                         <div class="swiper-wrapper">
+                            
                             <div class="swiper-slide slide-center item">
                                 <div class="row card p-0 text-center">
                                     <div class="image-over">
                                         <img src="assets/images/news-1.jpg" alt="Lorem ipsum">
                                     </div>
                                     <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-user"></i>Andrea Miller</a>
+                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-user"></i>Andrea Miller 1</a>
                                         <a href="#" class="d-lg-flex align-items-center"><i class="icon-clock"></i>2 Days Ago</a>
                                     </div>
                                     <div class="card-caption col-12 p-0">
@@ -538,177 +424,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card p-0 text-center">
-                                    <div class="image-over">
-                                        <img src="assets/images/news-2.jpg" alt="Lorem ipsum">
-                                    </div>
-                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-user"></i>John Smith</a>
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-clock"></i>9 Days Ago</a>
-                                    </div>
-                                    <div class="card-caption col-12 p-0">
-                                        <div class="card-body">
-                                            <a href="#">
-                                                <h4>Because market research is part of the business plan</h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card p-0 text-center">
-                                    <div class="image-over">
-                                        <img src="assets/images/news-3.jpg" alt="Lorem ipsum">
-                                    </div>
-                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-user"></i>Andrea Miller</a>
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-clock"></i>16 Days Ago</a>
-                                    </div>
-                                    <div class="card-caption col-12 p-0">
-                                        <div class="card-body">
-                                            <a href="#">
-                                                <h4>Working from home is now a trend</h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card p-0 text-center">
-                                    <div class="image-over">
-                                        <img src="assets/images/news-4.jpg" alt="Lorem ipsum">
-                                    </div>
-                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-user"></i>John Smith</a>
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-clock"></i>23 Days Ago</a>
-                                    </div>
-                                    <div class="card-caption col-12 p-0">
-                                        <div class="card-body">
-                                            <a href="#">
-                                                <h4>Tips for having a good relationship at work</h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card p-0 text-center">
-                                    <div class="image-over">
-                                        <img src="assets/images/news-5.jpg" alt="Lorem ipsum">
-                                    </div>
-                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-user"></i>David Cooper</a>
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-clock"></i>30 Days Ago</a>
-                                    </div>
-                                    <div class="card-caption col-12 p-0">
-                                        <div class="card-body">
-                                            <a href="#">
-                                                <h4>David Cooper tells about the opening of the new office in Baltimore</h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card p-0 text-center">
-                                    <div class="image-over">
-                                        <img src="assets/images/news-1.jpg" alt="Lorem ipsum">
-                                    </div>
-                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-user"></i>Andrea Miller</a>
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-clock"></i>2 Days Ago</a>
-                                    </div>
-                                    <div class="card-caption col-12 p-0">
-                                        <div class="card-body">
-                                            <a href="#">
-                                                <h4>Increasing creativity is possible for everyone</h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card p-0 text-center">
-                                    <div class="image-over">
-                                        <img src="assets/images/news-2.jpg" alt="Lorem ipsum">
-                                    </div>
-                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-user"></i>John Smith</a>
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-clock"></i>9 Days Ago</a>
-                                    </div>
-                                    <div class="card-caption col-12 p-0">
-                                        <div class="card-body">
-                                            <a href="#">
-                                                <h4>Because market research is part of the business plan</h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card p-0 text-center">
-                                    <div class="image-over">
-                                        <img src="assets/images/news-3.jpg" alt="Lorem ipsum">
-                                    </div>
-                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-user"></i>Andrea Miller</a>
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-clock"></i>16 Days Ago</a>
-                                    </div>
-                                    <div class="card-caption col-12 p-0">
-                                        <div class="card-body">
-                                            <a href="#">
-                                                <h4>Working from home is now a trend</h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card p-0 text-center">
-                                    <div class="image-over">
-                                        <img src="assets/images/news-4.jpg" alt="Lorem ipsum">
-                                    </div>
-                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-user"></i>John Smith</a>
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-clock"></i>23 Days Ago</a>
-                                    </div>
-                                    <div class="card-caption col-12 p-0">
-                                        <div class="card-body">
-                                            <a href="#">
-                                                <h4>Tips for having a good relationship at work</h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide slide-center item">
-                                <div class="row card p-0 text-center">
-                                    <div class="image-over">
-                                        <img src="assets/images/news-5.jpg" alt="Lorem ipsum">
-                                    </div>
-                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-user"></i>David Cooper</a>
-                                        <a href="#" class="d-lg-flex align-items-center"><i class="icon-clock"></i>30 Days Ago</a>
-                                    </div>
-                                    <div class="card-caption col-12 p-0">
-                                        <div class="card-body">
-                                            <a href="#">
-                                                <h4>David Cooper tells about the opening of the new office in Baltimore</h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
