@@ -130,17 +130,17 @@
 
                     <!-- Navbar Brand-->
                     <a class="navbar-brand" href="index.html">
-                        <span class="brand">
+                        {{-- <span class="brand">
                             <span class="featured">
                                 <span class="first">Tweeny</span>
                             </span>
                             <span class="last">Consul</span>
-                        </span>
+                        </span> --}}
                         
-                        <!-- 
-                            Custom Logo
-                            <img src="assets/images/logo.svg" alt="NEXGEN">
-                        -->
+                        
+                            
+                            <img src="assets/images/tweeny1-.png" alt="TweenyConsul">
+                        
                     </a>
 
                     <!-- Nav holder -->
@@ -806,7 +806,7 @@
                             </div>
                         </div>                        
                     </div>
-                    <div class="col-12 col-md-4">
+                    {{-- <div class="col-12 col-md-4">
                         <div class="contacts">
                             <h4>Example Inc.</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -835,7 +835,7 @@
                                 </li>
                             </ul>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
             </div>
         </section>
@@ -847,48 +847,36 @@
             <section id="footer" class="odd footer offers">
                 <div class="container">
                     <div class="row">
-                        <div class="col-12 col-lg-3 footer-left">
+                        <div class="col-12">
 
                             <!-- Navbar Brand-->
                             <a class="navbar-brand" href="index.html">
-                                <span class="brand">
-                                    <span class="featured">
-                                        <span class="first">Tweeny</span>
-                                    </span>
-                                    <span class="last">Consul</span>
-                                </span>
-                                
-                                <!-- 
-                                    Custom Logo
-                                    <img src="assets/images/logo.svg" alt="NEXGEN">
-                                -->
+                                <img src="assets/images/tweeny1-.png" alt="TweenyConsulGroup">
+                            
                             </a>
-                            <p>A Functional HTML Template<br>for Corporate & Business.</p>
+                            <p>The Official Website<br>for TweenyConsulGroup.</p>
                             <ul class="navbar-nav">
                                 <li class="nav-item">
                                     <a href="#" class="nav-link">
                                         <i class="fas fa-phone-alt mr-2"></i>
-                                        +1 (305) 1234-5678
+                                        +234 (802) 950-9724
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="#" class="nav-link">
                                         <i class="fas fa-envelope mr-2"></i>
-                                        hello@example.com
+                                        info@tweenyconsulgroup.com
                                     </a>
                                 </li>
                                 <li class="nav-item">
                                     <a href="#" class="nav-link">
                                         <i class="fas fa-map-marker-alt mr-2"></i>
-                                        Main Avenue, 987
+                                        Lagos, Nigeria
                                     </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="#contact" class="mt-4 btn outline-button smooth-anchor">GET IN TOUCH</a>
                                 </li>
                             </ul>
                         </div>
-                        <div class="col-12 col-lg-9 p-0 footer-right">
+                        {{-- <div class="col-12 col-lg-9 p-0 footer-right">
                             <div class="row items">
                                 <div class="col-12 col-lg-4 item">
                                     <div class="card">
@@ -924,7 +912,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </section>
@@ -934,7 +922,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12 col-md-6 p-3 text-center text-lg-left">
-                            <p>Customers satisafction is key.</p>
+                            <p>Customers satisfaction is key.</p>
                             <!--
                                 Suggestion: Replace the text above with a description of your website.
                              -->
@@ -996,7 +984,7 @@
                         <i class="icon-close fas fa-arrow-right"></i>
                     </div>
                     <div class="modal-body">
-                        <form action="https://nexgen.codings.dev/" class="row">
+                        <form action="" class="row">
                             <div class="col-12 p-0 align-self-center">
                                 <div class="row">
                                     <div class="col-12 p-0 pb-3">
@@ -1032,7 +1020,7 @@
                         <i class="icon-close fas fa-arrow-right"></i>
                     </div>
                     <div class="modal-body">
-                        <form action="https://nexgen.codings.dev/" class="row">
+                        <form action="" class="row">
                             <div class="col-12 p-0 align-self-center">
                                 <div class="row">
                                     <div class="col-12 p-0 pb-3">
